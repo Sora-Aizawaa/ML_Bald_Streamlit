@@ -1,0 +1,60 @@
+fitur,importance
+numeric__gaji,1312
+numeric__umur,1210
+numeric__berat,1209
+numeric__tinggi,1144
+numeric__stress,843
+numeric__is_merokok,408
+categorical__jenis_kelamin_laki-laki,344
+numeric__is_keturunan,305
+categorical__pekerjaan_freelance,301
+categorical__pekerjaan_pegawai swasta,195
+categorical__pekerjaan_pns,164
+categorical__pendidikan_s1,118
+categorical__pekerjaan_pengangguran,116
+categorical__sampo_moonsilk,82
+categorical__sampo_deadbuoy,79
+categorical__pendidikan_sma,76
+categorical__sampo_shoulder & head,75
+categorical__sampo_merpati,75
+categorical__provinsi_mataram,50
+categorical__provinsi_gorontalo,49
+categorical__sampo_pantone,46
+categorical__provinsi_jayapura,41
+categorical__provinsi_banjarmasin,39
+categorical__provinsi_mamuju,39
+categorical__provinsi_denpasar,37
+categorical__provinsi_kupang,37
+categorical__jenis_kelamin_perempuan,36
+categorical__pendidikan_s2,35
+categorical__provinsi_bandung,31
+categorical__provinsi_padang,30
+categorical__provinsi_semarang,29
+categorical__provinsi_jambi,27
+categorical__provinsi_serang,26
+categorical__provinsi_tanjungselor,25
+categorical__provinsi_manokwari,25
+categorical__provinsi_banda aceh,23
+categorical__provinsi_samarinda,23
+categorical__pendidikan_smp,22
+categorical__provinsi_medan,20
+categorical__provinsi_pekanbaru,20
+categorical__provinsi_makassar,20
+categorical__provinsi_pangkalpinang,19
+categorical__provinsi_jakarta,18
+categorical__provinsi_yogyakarta,18
+categorical__provinsi_kendari,17
+categorical__provinsi_ambon,16
+categorical__provinsi_bengkulu,15
+categorical__provinsi_pontianak,15
+categorical__provinsi_sofifi,13
+categorical__provinsi_tanjung pinang,13
+categorical__provinsi_palembang,11
+categorical__provinsi_palangkaraya,11
+categorical__provinsi_surabaya,10
+categorical__provinsi_palu,9
+categorical__provinsi_banda lampung,8
+categorical__provinsi_manado,8
+numeric__is_menikah,7
+categorical__pendidikan_sd,5
+categorical__pendidikan_s3,1

@@ -1,0 +1,31 @@
+{
+  "best_model_name": "LGBMClassifier",
+  "target_column": "botak_prob",
+  "threshold": 0.5,
+  "label_map": {
+    "0": "Tidak Botak",
+    "1": "Botak"
+  },
+  "split": "60-20-20",
+  "random_state": 42,
+  "n_train": 4543,
+  "n_val": 1515,
+  "n_test": 1515,
+  "validation_f1_botak": 0.9161290322580645,
+  "test_metrics": {
+    "accuracy": 0.8805280528052806,
+    "balanced_accuracy": 0.8595031764633319,
+    "precision_botak": 0.8940719144800777,
+    "recall_botak": 0.9274193548387096,
+    "f1_botak": 0.9104403760514597,
+    "f1_macro": 0.8655274229117556
+  },
+  "has_predict_proba": true,
+  "trained_at": "2026-10-27T07:10:15",
+  "versions": {
+    "python": "3.13.16",
+    "scikit_learn": "1.6.1",
+    "pandas": "2.2.3",
+    "numpy": "2.1.3"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "feature_columns": [
+    "umur",
+    "jenis_kelamin",
+    "pekerjaan",
+    "provinsi",
+    "gaji",
+    "is_menikah",
+    "is_keturunan",
+    "berat",
+    "tinggi",
+    "sampo",
+    "is_merokok",
+    "pendidikan",
+    "stress"
+  ],
+  "numeric_cols": [
+    "umur",
+    "gaji",
+    "is_menikah",
+    "is_keturunan",
+    "berat",
+    "tinggi",
+    "is_merokok",
+    "stress"
+  ],
+  "categorical_cols": [
+    "jenis_kelamin",
+    "pekerjaan",
+    "provinsi",
+    "sampo",
+    "pendidikan"
+  ],
+  "numeric_stats": {
+    "umur": {
+      "min": 17.0,
+      "max": 77.0,
+      "median": 40.0
+    },
+    "gaji": {
+      "min": 2269614.486434797,
+      "max": 27535590.965451647,
+      "median": 7840263.516268172
+    },
+    "is_menikah": {
+      "min": 0.0,
+      "max": 1.0,
+      "median": 1.0
+    },
+    "is_keturunan": {
+      "min": 0.0,
+      "max": 1.0,
+      "median": 0.0
+    },
+    "berat": {
+      "min": 40.0,
+      "max": 108.62575969932976,
+      "median": 53.81857028324296
+    },
+    "tinggi": {
+      "min": 138.39381053432015,
+      "max": 196.16156018488988,
+      "median": 167.15604141775958
+    },
+    "is_merokok": {
+      "min": 0.0,
+      "max": 1.0,
+      "median": 0.0
+    },
+    "stress": {
+      "min": 1.0,
+      "max": 10.0,
+      "median": 5.0
+    }
+  },
+  "categorical_options": {
+    "jenis_kelamin": [
+      "laki-laki",
+      "perempuan"
+    ],
+    "pekerjaan": [
+      "freelance",
+      "pegawai swasta",
+      "pengangguran",
+      "pns"
+    ],
+    "provinsi": [
+      "ambon",
+      "banda aceh",
+      "banda lampung",
+      "bandung",
+      "banjarmasin",
+      "bengkulu",
+      "denpasar",
+      "gorontalo",
+      "jakarta",
+      "jambi",
+      "jayapura",
+      "kendari",
+      "kupang",
+      "makassar",
+      "mamuju",
+      "manado",
+      "manokwari",
+      "mataram",
+      "medan",
+      "padang",
+      "palangkaraya",
+      "palembang",
+      "palu",
+      "pangkalpinang",
+      "pekanbaru",
+      "pontianak",
+      "samarinda",
+      "semarang",
+      "serang",
+      "sofifi",
+      "surabaya",
+      "tanjung pinang",
+      "tanjungselor",
+      "yogyakarta"
+    ],
+    "sampo": [
+      "deadbuoy",
+      "merpati",
+      "moonsilk",
+      "pantone",
+      "shoulder & head"
+    ],
+    "pendidikan": [
+      "s1",
+      "s2",
+      "s3",
+      "sd",
+      "sma",
+      "smp"
+    ]
+  }
+}
